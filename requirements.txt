@@ -1,0 +1,4 @@
+selenium>=4.25
+psycopg[binary]>=3.2
+python-dotenv>=1.0
+requests>=2.32
